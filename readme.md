@@ -9,8 +9,8 @@
 - [ ] 移除 <script>jQuery.extend(Drupal.settings...</script> 標籤
 
 - [ ] 下載 to_be_download_url.txt 的檔案
-- [ ] 下載 binary_list.txt 的檔案
 
+- [x] 下載 binary_list.txt 的檔案
 - [x] 刪除沒有附檔名，但是有同名 .html 檔案的檔案
 - [x] 排除的 of.openfoundry.org 另行處理
 - [x] 列出所有的 binary 檔案清單並且抓取
