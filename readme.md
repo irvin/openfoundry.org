@@ -7,18 +7,16 @@
 - [ ] 刪除沒有附檔名，但是有同名 .html 檔案的檔案
 - [ ] 把頁面中到 http(s)?://openfoundry.org 的連結改成相對連結
 - [ ] 設定 git-pages repo 並將 /openfoundry.org/openfoundry.org 搬移到根目錄下以便打開 github pages
-- [ ] 把所有的 page not found 刪除
-- [ ] 修正變成 0 Bytes 的檔案
-- [ ] feed 要改名叫 feed.xml
 - [ ] 移除 <script>jQuery.extend(Drupal.settings...</script> 標籤
-- [ ] 列出所有的 binary 檔案清單並且抓取
-- [ ] 列出目前檔案中連結的多媒體檔案清單
-- [ ] 排除的 of.openfoundry.org 另行處理
 
-- [ ] 下載 remaining_empty_html_files.txt 的檔案
-- [ ] 下載 media_tbd_manual.txt 的檔案
-- [ ] 下載 matched_files.txt 的檔案
+- [ ] 下載 to_be_download_url.txt 的檔案
+- [ ] 下載 binary_list.txt 的檔案
 
+- [x] 排除的 of.openfoundry.org 另行處理
+- [x] 列出所有的 binary 檔案清單並且抓取
+- [x] 列出目前檔案中連結的多媒體檔案清單
+- [x] 把所有的 page not found 刪除
+- [x] 移除 0 Bytes 的檔案
 - [x] 處理 `<TITLE>Page has moved</TITLE>` 的 .html 頁面
 - [x] 處理「Click here...」的 html 頁面
 - [x] 移除有對應檔案的 0 bytes HTML 檔案
