@@ -4,7 +4,6 @@
 
 - [ ] 列出所有的頁面目錄與標題清單
 - [ ] 把檔案中的外部資源內部化
-- [ ] 刪除沒有附檔名，但是有同名 .html 檔案的檔案
 - [ ] 把頁面中到 http(s)?://openfoundry.org 的連結改成相對連結
 - [ ] 設定 git-pages repo 並將 /openfoundry.org/openfoundry.org 搬移到根目錄下以便打開 github pages
 - [ ] 移除 <script>jQuery.extend(Drupal.settings...</script> 標籤
@@ -12,6 +11,7 @@
 - [ ] 下載 to_be_download_url.txt 的檔案
 - [ ] 下載 binary_list.txt 的檔案
 
+- [x] 刪除沒有附檔名，但是有同名 .html 檔案的檔案
 - [x] 排除的 of.openfoundry.org 另行處理
 - [x] 列出所有的 binary 檔案清單並且抓取
 - [x] 列出目前檔案中連結的多媒體檔案清單
