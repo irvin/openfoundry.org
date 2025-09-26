@@ -2,24 +2,26 @@
 
 ## todo
 
-- [ ] 重新下載 *.delayed 檔案
-- [ ] 重新下載 zero_bytes_url.txt 的檔案
 - [ ] 列出所有的頁面目錄與標題清單
 - [ ] 把檔案中的外部資源內部化
 - [ ] 刪除沒有附檔名，但是有同名 .html 檔案的檔案
 - [ ] 把頁面中到 http(s)?://openfoundry.org 的連結改成相對連結
 - [ ] 設定 git-pages repo 並將 /openfoundry.org/openfoundry.org 搬移到根目錄下以便打開 github pages
-- [ ] files/downloads/ 下的檔案實在太大了，透過 Git LFS 上傳
-- [ ] 如果 `<TITLE>Page has moved</TITLE>` 頁面有對應的 .html 檔案，就將其移除
 - [ ] 把所有的 page not found 刪除
 - [ ] 修正變成 0 Bytes 的檔案
 - [ ] feed 要改名叫 feed.xml
 - [ ] 移除 <script>jQuery.extend(Drupal.settings...</script> 標籤
-- [ ] 修正檔案內連結的 css 變成 html
 - [ ] 列出所有的 binary 檔案清單並且抓取
-- [ ] 內容有「Click here...」的頁面是沒有成功抓到的頁面
 - [ ] 列出目前檔案中連結的多媒體檔案清單
 - [ ] 排除的 of.openfoundry.org 另行處理
+
+- [ ] 下載 remaining_empty_html_files.txt 的檔案
+- [ ] 下載 media_tbd_manual.txt 的檔案
+- [ ] 下載 matched_files.txt 的檔案
+
+- [x] 處理 `<TITLE>Page has moved</TITLE>` 的 .html 頁面
+- [x] 處理「Click here...」的 html 頁面
+- [x] 移除有對應檔案的 0 bytes HTML 檔案
 - [x] 列出所有尚未 commit 的檔案清單
 
 ## 建立鏡像流程
