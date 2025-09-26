@@ -10,6 +10,7 @@
 
 - [ ] 下載 to_be_download_url.txt 的檔案
 
+- [x] 移除「Please log in or register to view or modify your profile.」的頁面
 - [x] 下載 binary_list.txt 的檔案
 - [x] 刪除沒有附檔名，但是有同名 .html 檔案的檔案
 - [x] 排除的 of.openfoundry.org 另行處理
